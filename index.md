@@ -9,11 +9,11 @@
 ## Session plan
 
 * Collage: "[National Geographic collage - Air](https://www.flickr.com/photos/redaktor/8638965731)" by Bec Bigg-Wither
-* Human processes behind Evergreen's documentation
-  * How to contribute
+* Human processes behind Evergreen's manual
+  * How to contribute content
   * Potential process improvements
-* Interactive session
 * Evergreen's documentation ecosystem beyond the manual
+* Interactive session
 * Pause on each slide to enjoy the collage!
 
 ## Four types of documentation
