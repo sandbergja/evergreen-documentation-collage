@@ -24,6 +24,15 @@
 * Release notes
 * Documentation for developers
 
+## Steps to add to the manual
+
+* Collage: "[Trout collage](https://flic.kr/p/3agthk)" by Faith
+* 1. Contributors identify and report a gap
+* 2. Contributors create or compile documentation
+* 3. Contributors submit documentation
+* 4. Docs Committers review and incorporate submissions
+
+
 ## Step 1: Contributors identify and report a gap
 
 * Collage: "[Collage](https://flic.kr/p/bK8kbM)" by Lauren M.
@@ -79,7 +88,7 @@
 * Sign up for the [Evergreen documentation email list](http://list.evergreen-ils.org/cgi-bin/mailman/listinfo/evergreen-documentation)
 * Create a Github Account and [create your own fork of Evergreen](https://github.com/evergreen-library-system/Evergreen)
 
-## Step 4: Docs Committers review and approve submissions
+## Step 4: Docs Committers review and incorporate submissions
 
 * Collage: "[eye garden](https://flic.kr/p/2kjouRA)" by Tyler Hewitt
 * Process improvements:
