@@ -27,10 +27,10 @@
 ## Steps to add to the manual
 
 * Collage: "[Trout collage](https://flic.kr/p/3agthk)" by Faith
-* 1. Contributors identify and report a gap
-* 2. Contributors create or compile documentation
-* 3. Contributors submit documentation
-* 4. Docs Committers review and incorporate submissions
+1. Contributors identify and report a gap
+2. Contributors create or compile documentation
+3. Contributors submit documentation
+4. Docs Committers review and incorporate submissions
 
 
 ## Step 1: Contributors identify and report a gap
@@ -119,4 +119,12 @@
 * For new features, provided in the code
 * For bug fixes, the release team creates brief notes 
 
+## Developer documentation
+ 
+* Collage: "[Collage riffs](https://flic.kr/p/yXDLNm)" by jane cornwell
+* Developers need both conceptual and just-in-time documentation too
+* Shout out to Dan Wells, Remington Steed, Terran McCanna, and the New Developers Group
 
+## Questions? And thank you!
+
+* Collage: "[Collage #4](https://flic.kr/p/rm97m)" by BB
