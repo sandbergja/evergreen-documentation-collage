@@ -108,7 +108,15 @@
 
 ## Activity 4
 
+* Collage: "[Collage exchange](https://flic.kr/p/5A59AD)" by May
 * Together, let's identify a screen in Evergreen staff client that could benefit from a help popover
 * Together, let's figure out the details of placement and wording
 * We will then submit the request to launchpad
+ 
+## Release notes
+ 
+* Collage: "[Momentos](https://flic.kr/p/eLp2cr)" by Nico Sagredo.
+* For new features, provided in the code
+* For bug fixes, the release team creates brief notes 
+
 
