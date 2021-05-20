@@ -68,7 +68,7 @@
 
 ## Step 3: Contributors submit documentation
 
-* Collage: "[Collage](https://flic.kr/p/qvWC)" by João Tito Basto
+* Collage: "[shoe Repaire in the TwiLight zOne](https://flic.kr/p/cpzDE)" by Martin
 * Submit any format to the Evergreen email list
 * Submit AsciiDoc as a Github Pull Request - [procedures available in the Evergreen manual](https://docs.evergreen-ils.org/eg/docs/latest/shared/how_to_contribute_docs.html)
 
@@ -79,3 +79,9 @@
 * Sign up for the [Evergreen documentation email list](http://list.evergreen-ils.org/cgi-bin/mailman/listinfo/evergreen-documentation)
 * Create a Github Account and [create your own fork of Evergreen](https://github.com/evergreen-library-system/Evergreen)
 
+## Step 4: Docs Committers review and approve submissions
+
+* Collage: "[eye garden](https://flic.kr/p/2kjouRA)" by Tyler Hewitt
+* Process improvements:
+  * Add more docs committers
+  * Automatically generate a preview version of the documentation when a pull request is opened
