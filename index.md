@@ -94,3 +94,21 @@
 * Process improvements:
   * Add more docs committers
   * Automatically generate a preview version of the documentation when a pull request is opened
+
+## Questions?
+
+* Collage: "[collage PC with bonus RAK](https://flic.kr/p/2gHyVq9)" by Tricia J
+
+
+## Contextual help
+
+* Collage: "[walkabout](https://flic.kr/p/5u8k4b)" by Jill Allyn Stafford.
+* Mini-documentation in Evergreen screens at the point of need
+* One way to do this in the staff client is the <eg-help-popover> component
+
+## Activity 4
+
+* Together, let's identify a screen in Evergreen staff client that could benefit from a help popover
+* Together, let's figure out the details of placement and wording
+* We will then submit the request to launchpad
+
