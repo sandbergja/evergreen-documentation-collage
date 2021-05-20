@@ -65,3 +65,17 @@
 * Identify the license, if available, for that documentation
 * In the chat, post a link to the documentation and what you found out about its license
 
+
+## Step 3: Contributors submit documentation
+
+* Collage: "[Collage](https://flic.kr/p/qvWC)" by João Tito Basto
+* Submit any format to the Evergreen email list
+* Submit AsciiDoc as a Github Pull Request - [procedures available in the Evergreen manual](https://docs.evergreen-ils.org/eg/docs/latest/shared/how_to_contribute_docs.html)
+
+
+## Activity 3 (optional)
+
+* Collage: "[Collage](https://flic.kr/p/29Qn4ZX)" street art by Murmure – Artisme, photo by Jeanne Menjoulet
+* Sign up for the [Evergreen documentation email list](http://list.evergreen-ils.org/cgi-bin/mailman/listinfo/evergreen-documentation)
+* Create a Github Account and [create your own fork of Evergreen](https://github.com/evergreen-library-system/Evergreen)
+
