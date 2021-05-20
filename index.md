@@ -44,3 +44,24 @@
   * Find a gap in the chat
   * Write a chat message to let others know you are taking that gap
   * Add the gap to the wiki or launchpad
+
+## Step 2: Contributors create or compile documentation
+
+* Collage: "[Collage](https://flic.kr/p/qvWC)" by João Tito Basto
+* May be sourced from
+  * Local documentation
+  * Release notes
+  * Conversations in emails, launchpad, IRC
+  * New documentation
+* Process improvements
+  * solid procedures for attribution when we incorporate other docs
+  * make it easy for others to remix the manual
+
+
+## Activity 2
+
+* Collage: "[Collage](https://www.flickr.com/photos/gelund/49722052843/)" by Gary Lund
+* Find some Evergreen documentation online from a source *other* than the official manual
+* Identify the license, if available, for that documentation
+* In the chat, post a link to the documentation and what you found out about its license
+
